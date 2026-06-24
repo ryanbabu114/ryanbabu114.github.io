@@ -8,9 +8,9 @@ My personal portfolio website showcasing my projects, technical skills, certific
 
 ## 👋 About Me
 
-I'm Ryan Babu, a Computer Science & Engineering graduate passionate about software development, hardware integration, computer vision, and IoT solutions.
+I'm Ryan Babu, a Computer Science & Engineering graduate passionate about software development and building hardware.
 
-I enjoy building practical systems that solve real-world problems, from mobile applications to intelligent monitoring systems.
+I enjoy building practical systems that solve real-world problems, from mobile applications to intelligent systems.
 
 ---
 
